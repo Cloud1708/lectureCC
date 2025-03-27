@@ -80,7 +80,7 @@ main{
 
  aside ul{
     padding-left: 30px;
-    padding-top: 5px;
+    padding-top: 10px;
     padding-bottom: 5px;
  }
  
@@ -97,6 +97,8 @@ footer{
 footer p{
     color: white;
     margin-bottom: 5px;
+    padding: 5px;
+    
     
 }
 
