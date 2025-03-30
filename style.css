@@ -117,6 +117,7 @@ footer p{
     justify-content: center;
     flex-direction: row;
     align-content: center;
+    margin: 10px 0px 0px 10px ;
 }
 
 .flex-container-1 section{
@@ -129,6 +130,7 @@ footer p{
     justify-content: left;
     align-content: center;
     flex-grow: 1;
+    margin: 0px 0px 0px 10px;
     
 }
 .flex-container-2 aside{
@@ -142,11 +144,17 @@ footer p{
 }
 
 .flex-container-3 section{
-    margin: 0px 5px 10px 5px;
+    margin: 0px 0px 10px 0px;
+    background-color: #f9f9f9;
 }
 
 .flex-container-3 article{
     background-color: #f9f9f9;
+    margin: 0px 0px 10px 0px;
+}
+
+.flex-container-4 footer{
+    margin: 10px 0px 0px 0px;
 }
 
 
